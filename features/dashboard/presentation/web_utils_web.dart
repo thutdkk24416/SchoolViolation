@@ -1,4 +1,4 @@
-﻿import 'dart:html' as html;
+import 'dart:html' as html;
 import 'dart:typed_data';
 
 // ─── Download File ──────────────────────────────────────────────
